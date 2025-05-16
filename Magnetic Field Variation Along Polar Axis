@@ -1,0 +1,36 @@
+### 4. Magnetic Field Variation Along Polar Axis
+
+**Objective:**  
+To measure the Earth's magnetic field strength and orientation along the longitudinal meridian lines from pole to pole and evaluate whether magnetic asymmetries align with the proposed polar axis curvature in the Open Earth Polar Model.
+
+**Background:**  
+Standard geomagnet*Objective:**  
+To measure the Earth's magnetic field strength and orientation along the longitudinal meridian lines from pole to pole and evaluate whether magnetic asymmetries align with the proposed polar axis curvature in the Open Earth Polar Model.
+
+**Background:**  
+Standard geomagnetic models suggest a dipole magnetic field centered at the Earth’s core. However, discrepancies in field intensity and behavior between hemispheres may imply alternative magnetic interactions, possibly due to an asymmetric polar axis or time-curvature dynamics.
+ic models suggest a dipole magnetic field centered at the Earth’s core. However, discrepancies in field intensity and behavior between hemispheres may imply alternative magnetic interactions, possibly due to an asymmetric polar axis or time-curvature dynamics.
+
+**Materials Required:**  
+- Magnetometer (fluxgate or scalar)  
+- GPS logger for precise geographic position  
+- Elevation logger  
+- Time-synchronized data recorder  
+- Optional: drone or balloon for vertical field profiling  
+
+**Procedure:**  
+1. Select several meridian transects from northern to southern hemispheres (e.g., 0°, 45°, 90°, 135° longitude).  
+2. At each degree of latitude along these meridians, record:  
+   - Magnetic field intensity (nT)  
+   - Magnetic declination and inclination  
+   - Time of measurement  
+3. Normalize data for altitude, solar storm events, and diurnal variations.  
+4. Plot data to reveal field strength and direction against latitude.
+
+**Expected Outcome:**  
+- Detection of field strength imbalances across poles  
+- Shifts in declination/inclination that support axis curvature or off-center dipole fields  
+- Observations of field anomalies near the polar regions (e.g., South Atlantic Anomaly)
+
+**Significance to the Model:**  
+If magnetic field data aligns with a curved or non-linear axial path, this would support the claim that Earth's magnetic and energy fields are governed by more than simple dipole mechanics. It would suggest a deeper interaction between axial rotation, space-time curvature, and magnetic field dynamics.
