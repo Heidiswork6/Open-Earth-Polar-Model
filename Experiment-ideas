@@ -1,0 +1,86 @@
+# Proposed Experiments to Test the Open Earth Polar Model
+
+This document outlines 10 experiments aimed at validating the Open Earth Polar Model. These are designed to be accessible, reproducible, and adaptable for amateur and professional researchers alike.
+
+---
+
+### 1. **Polar Light Curve Analysis**
+**Goal:** Track solar position and daylight duration at different latitudes across seasons.  
+**Purpose:** Validate axis-centered rotation model and polar light asymmetry.  
+**Data Needed:** Sunrise/sunset logs, solar azimuth measurements.  
+
+---
+
+### 2. **Solar Radiation by Latitude**
+**Goal:** Compare measured solar intensity at different latitudes over a year.  
+**Purpose:** Test energy-field consistency and curvature effects.  
+**Tools:** Solar pyranometer, GPS logging, thermometer.  
+
+---
+
+### 3. **Gyroscope-Based Axis Verification**
+**Goal:** Measure the angle of Earth's rotation axis locally.  
+**Purpose:** Test for stable axial rotation and polar asymmetry.  
+**Materials:** Laser gyroscope, mechanical gyroscope, logging interface.
+
+---
+
+### 4. **Electromagnetic Field Mapping**
+**Goal:** Measure local EM field intensities from pole to equator.  
+**Purpose:** Determine whether the polar axis produces symmetry or field distortion.  
+**Tools:** EMF meters, compass, GPS.
+
+---
+
+### 5. **Gravity Strength Mapping**
+**Goal:** Map changes in gravitational acceleration from equator to pole.  
+**Purpose:** Identify correlations with rotational energy distribution.  
+**Tools:** Gravimeter, altimeter, accelerometer.
+
+---
+
+### 6. **Pendulum Direction Drift Test (Foucault-type)**
+**Goal:** Observe rotational drift at different latitudes.  
+**Purpose:** Validate axis-centric motion vs orbital-centric motion.  
+**Setup:** Suspended pendulum on rotation-isolated platform.
+
+---
+
+### 7. **Moon-Tide Polar Influence Study**
+**Goal:** Analyze tidal fluctuations and correlate them to lunar positions vs Earth’s poles.  
+**Purpose:** Determine if tidal strength correlates better with Earth-polar model or heliocentric lunar model.  
+**Tools:** Tide gauge, moonrise/moonset data.
+
+---
+
+### 8. **Radio Wave Deflection Mapping**
+**Goal:** Measure signal loss and reflection by latitude.  
+**Purpose:** Determine interaction of radio waves with atmospheric energy fields predicted by model.  
+**Tools:** Ham radio, signal strength loggers, lat/long logs.
+
+---
+
+### 9. **Temperature Gradient Time-Curve Analysis**
+**Goal:** Record atmospheric temperatures every hour by latitude and season.  
+**Purpose:** Identify field warping or time-energy relationships.  
+**Tools:** Temperature loggers, time synchronization tool, GPS.
+
+---
+
+### 10. **Time Dilation Clock Drift**
+**Goal:** Compare high-precision clocks at different altitudes and latitudes.  
+**Purpose:** Examine gravitational/time curvature relationship.  
+**Tools:** Atomic clocks, synchronized logging software.
+
+---
+
+## Next Steps
+
+Each experiment will be expanded into its own `.md` guide under this folder. These guides will include:
+- Objectives
+- Materials
+- Setup
+- Procedure
+- Data collection format
+- Hypothesis
+- Links to data analysis notebooks
