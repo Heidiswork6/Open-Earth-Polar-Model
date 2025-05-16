@@ -1,0 +1,24 @@
+# Polar Axis Rotation Model
+
+## Overview
+
+This model proposes that Earth's rotation and internal dynamics are best represented when centered around its polar axis, treating the North-South axis as the primary geometric and energetic reference.
+
+## Core Equations
+
+Rotational energy density:
+E(θ) = (1/2) * m * r² * sin²θ * ω²
+
+Moment of inertia distribution:
+I(θ) = m * r² * sin²θ
+
+## Implications
+
+- Simplifies coordinate modeling of Earth’s movement
+- Reflects real polar asymmetries observed in geophysics
+- Natural fit for wave mechanics and gyroscopic dynamics
+
+## Notes
+
+Coordinate system: (r, θ, φ), centered on Earth's axis  
+Latitude-dependent energy and gravity variations are emphasized in this formulation. 
