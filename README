@@ -1,0 +1,16 @@
+# Data Repository for the Open Earth Polar Model
+
+This directory contains datasets used to support and validate the models proposed in this project. The data is organized into three categories:
+
+## Structure
+
+- **simulated/**: Synthetic datasets generated from mathematical models and assumptions to test core theories.
+- **observed/**: Manually collected data and logs from local experiments and analog fieldwork.
+- **external_sources/**: Public data from research institutions (e.g., NOAA, NASA), included for reference only—not from satellite or space sources.
+
+---
+
+## Format
+
+- `.csv` files use comma delimiters with headers.
+- `.md` files contain qualitative notes, observations, or source documentation. 
