@@ -1,0 +1,71 @@
+# Open Earth Polar Model: Mathematical Appendix
+
+## 1. Polar Coordinate Framework
+
+Let Earth be modeled in a polar coordinate system (r, θ, φ) centered on the axis of rotation.
+
+- θ = polar angle (latitude)
+- φ = azimuthal angle (longitude)
+- r = radial distance from center of mass
+
+## 2. Time-Curvature Gravity Equation (TGR)
+
+We define gravitational potential Φ as a function of time-curved space:
+
+Φ(r, t) = - G * M / (r + α * f(t))
+
+Where:  
+- G is the gravitational constant  
+- M is Earth's mass  
+- r is radial distance  
+- α is a curvature coefficient  
+- f(t) is a function of time-dependent field compression or dilation
+
+This replaces Newton's law with a time-varying potential energy field.
+
+## 3. Rotational Energy Field Equation (RE)
+
+Energy density due to Earth's rotation at a given latitude (θ):
+
+E(θ) = (1/2) * I(θ) * ω²  
+Where:  
+- I(θ) is the moment of inertia distribution across latitude  
+- ω is angular velocity  
+
+Let I(θ) = m * r² * sin²θ  
+Then,  
+E(θ) = (1/2) * m * r² * sin²θ * ω²
+
+## 4. Multi-Rotation Orbital Model
+
+Consider Earth rotating around the sun while maintaining axial spin:
+
+Position of Earth over time in sun-centered polar system:
+
+r(t) = R  
+φ(t) = ω_sun * t  
+θ(t) = ω_earth * t  
+
+Where:
+- ω_sun = Earth’s orbital angular velocity
+- ω_earth = Earth’s rotational angular velocity
+
+Combining both:
+Total relative rotational influence = vector sum of ω_sun and ω_earth projections in Earth’s field space.
+
+## 5. Curvature Tensor Influence (simplified form)
+
+In analogy with General Relativity, curvature may be represented as:
+
+Rμν = k * Tμν(t, r)  
+
+Where:  
+- Rμν = Ricci curvature tensor (simplified)  
+- Tμν = Energy-momentum tensor of the field  
+- k = proportional constant  
+
+This describes how energy distribution causes local curvature, including gravitational and electromagnetic effects.
+
+---
+
+Further mathematical derivation and simulations will be added to the GitHub repository.
