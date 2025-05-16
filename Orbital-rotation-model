@@ -1,0 +1,27 @@
+# Orbital and Axial Rotation Model
+
+## Model Scope
+
+This model calculates Earth's motion as a dual-rotational system:
+- Spin on its polar axis (daily)
+- Orbit around the sun (yearly)
+
+## Equations
+
+Orbital path (simplified):
+r(t) = R  
+φ(t) = ω_sun * t  
+θ(t) = ω_earth * t
+
+Where:
+- ω_sun = angular orbital velocity
+- ω_earth = axial rotation rate
+
+Total influence = vector sum of ω_sun and ω_earth in space-time
+
+## Application
+
+Used to model:
+- Energy field shifts
+- Seasonal field compression/dilation
+- Solar input and curvature fluctuations
