@@ -1,0 +1,16 @@
+# Models Overview
+
+This folder contains the core scientific and mathematical models of the Open Earth Polar Model. Each model offers a theoretical and computational framework for understanding Earth’s motion, energy fields, and curvature dynamics.
+
+## Included Models
+
+- `polar_axis_model.md`: Earth's rotation centered around the polar axis
+- `time_curvature_model.md`: Gravity and energy interactions as functions of time-curved fields
+- `orbital_rotation_model.md`: Combined orbital and rotational effects in Earth-Sun-Moon system
+- `simulation_notes.md`: Assumptions and computational considerations for simulating the models
+
+## Diagrams
+
+The `/diagrams/` subfolder contains visuals used to support the models.
+
+These models are open for critique, enhancement, and simulation contributions.
