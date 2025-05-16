@@ -55,3 +55,4 @@ If you use or reference this model in your research, please cite:
 **Heidi Peterson** (2025). *Open Earth Polar Model*.  
 GitHub Repository: [https://github.com/your-username/open-earth-polar-model](https://github.com/your-username/open-earth-polar-model)
 ---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)  
