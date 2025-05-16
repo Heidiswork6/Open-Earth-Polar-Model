@@ -1,0 +1,26 @@
+# Multi-Body Orbital Rotation Model (3D)
+
+This simulation visualizes the 3D orbital motion of Earth around the Sun and the Moon around the Earth, incorporating:
+
+- Axial and orbital inclination
+- Celestial motion in space
+- Time-evolved animation using `matplotlib`
+
+## Celestial Bodies Modeled
+
+- **Sun**: Fixed at origin
+- **Earth**: Circular orbit around Sun (1 AU radius)
+- **Moon**: Orbits Earth ~13 times per year with ~5° inclination
+
+## Technologies Used
+
+- `matplotlib.pyplot`
+- `mplot3d` from `mpl_toolkits`
+- `FuncAnimation` for real-time orbital animation
+
+## Usage
+
+To run this:
+
+```bash
+python multi_body_orbit_3d.py
