@@ -1,0 +1,32 @@
+### 5. Solar Radiation Curve Mapping by Latitude and Season
+
+**Objective:**  
+To measure and compare the variation of solar radiation intensity across different latitudes during solstices and equinoxes, testing if deviations from standard models correlate with axial energy field curvature in the Open Earth Polar Model.
+
+**Background:**  
+In conventional heliocentric models, solar insolation varies predictably by Earth’s axial tilt and elliptical orbit. However, the Open Earth Polar Model hypothesizes that polar-centered field asymmetries and time-curvature could produce distinct solar energy distributions, especially near polar circles.
+
+**Materials Required:**  
+- Pyranometer or calibrated solar radiation sensor  
+- GPS for latitude tracking  
+- Data logger or smartphone with compatible sensor interface  
+- Cloud cover and atmospheric condition logger (optional but recommended)
+
+**Procedure:**  
+1. Choose measurement locations spanning multiple latitudes (e.g., every 10° from 80°N to 80°S).  
+2. Take solar radiation measurements during:  
+   - Vernal Equinox (March)  
+   - Summer Solstice (June)  
+   - Autumnal Equinox (September)  
+   - Winter Solstice (December)  
+3. At each site, record radiation intensity (W/m²) at solar noon for consistency.  
+4. Repeat across multiple days to average data and reduce atmospheric noise.  
+5. Compare collected data against predicted insolation curves from standard models.
+
+**Expected Outcome:**  
+- Identification of anomalies or nonlinear behavior in solar exposure, particularly at mid-to-high latitudes.  
+- Seasonal shifts that are not fully accounted for by tilt alone.  
+- Data supporting asymmetric radiation distribution in line with field curvature.
+
+**Significance to the Model:**  
+If solar radiation patterns show consistent deviation from standard predictions—particularly in how energy is distributed near poles—this could validate the hypothesis that the axial rotation and energy field curvature influence Earth’s solar interaction in nontraditional ways.
