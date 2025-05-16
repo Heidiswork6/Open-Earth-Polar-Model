@@ -1,0 +1,35 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Parameters
+R = 6371e3  # Earth radius in meters
+num_points = 200
+theta = np.linspace(0, np.pi, num_points)  # polar angle from 0 to pi
+
+# Hypothetical curvature function based on latitude (theta)
+def curvature(theta):
+    # Example: max curvature at poles, min at equator
+    return 1 + 0.5 * np.cos(theta)**2
+
+# Initialize wave amplitude array
+A = np.zeros(num_points)
+# Boundary conditions (standing wave)
+A[0] = 0  # pole 1
+A[-1] = 0 # pole 2
+
+# Simple iterative solver for wave equation in 1D spherical coordinate
+def solve_wave(A, curvature, theta, iterations=1000, alpha=0.01):
+    for _ in range(iterations):
+        for i in range(1, len(A)-1):
+            d2A = (A[i+1] - 2*A[i] + A[i-1]) / ((theta[1] - theta[0])**2)
+            A[i] += alpha * (curvature(theta[i]) * d2A)
+    return A
+
+A = solve_wave(A, curvature, theta)
+
+plt.plot(np.degrees(theta), A)
+plt.xlabel('Latitude (degrees)')
+plt.ylabel('Wave Amplitude')
+plt.title('Simulated Resonance Mode Along Latitude')
+plt.grid(True)
+plt.show()
