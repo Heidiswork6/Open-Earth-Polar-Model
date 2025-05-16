@@ -1,0 +1,19 @@
+# Simulation and Computational Notes
+
+## Assumptions
+
+- Earth is treated as a rotating sphere centered on its polar axis
+- Mass is symmetrically distributed unless stated
+- Orbital and rotational forces are vector-decomposed
+
+## Tools Suggested
+
+- Python with SciPy / NumPy for numerical calculations
+- Matplotlib / Plotly for polar and spherical plots
+- Unity or Blender for 3D visual simulations
+
+## Output Goals
+
+- Simulated gravitational field lines under time-curvature
+- Visuals of Earth’s field shape over seasons
+- Variations of energy density by latitude 
