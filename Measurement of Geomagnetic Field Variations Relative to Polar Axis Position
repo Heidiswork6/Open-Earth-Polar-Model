@@ -1,0 +1,28 @@
+### 8. Measurement of Geomagnetic Field Variations Relative to Polar Axis Position
+
+**Objective:**  
+To measure and analyze the Earth’s geomagnetic field variations with respect to the polar axis position and test if the field geometry aligns more consistently with a polar-axis-centered energy model rather than traditional dipole models.
+
+**Background:**  
+Traditional geomagnetic models treat the Earth's magnetic field roughly like a dipole centered on the planet. However, polar asymmetry in magnetic intensity and anomalies suggest a more complex field that may be linked to an energy field rotating around the Earth’s polar axis.
+
+**Materials Required:**  
+- Magnetometers placed at various latitudes and longitudes, particularly near poles  
+- Data from geomagnetic observatories  
+- Software for magnetic field modeling and visualization (e.g., Python with numpy, matplotlib, or specialized geomagnetic software)  
+- Historical geomagnetic data records for long-term comparison
+
+**Procedure:**  
+1. Collect geomagnetic field data from multiple stations, focusing on variations near both poles.  
+2. Map the intensity and direction of the magnetic field relative to the geographic and polar axis.  
+3. Identify any consistent deviations from the dipole model, particularly asymmetries between the North and South Poles.  
+4. Use the polar-axis energy field model equations to simulate expected magnetic field patterns.  
+5. Compare measured data with model predictions and analyze discrepancies.
+
+**Expected Outcome:**  
+- Detection of asymmetries in magnetic field strength and direction between poles.  
+- Better alignment of measured geomagnetic anomalies with the polar-axis energy field model than with a simple dipole.  
+- Possible identification of a rotational influence on geomagnetic fluctuations tied to Earth’s polar axis rotation.
+
+**Significance to the Model:**  
+If geomagnetic field variations correlate strongly with the proposed polar-axis-centered energy field, it would suggest that Earth’s magnetism is governed by dynamic rotational energy fields rather than a static dipole, supporting the polar model’s superiority in explaining magnetic phenomena.
