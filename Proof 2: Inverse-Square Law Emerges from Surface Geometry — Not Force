@@ -1,0 +1,66 @@
+# Proof 2: Inverse-Square Law Emerges from Surface Geometry — Not Force
+
+## Introduction
+
+This proof supports the Open Earth Polar Model (OEPM) by demonstrating that the inverse-square relationship—central to Newtonian gravity—is not proof of an actual "force" but rather a consequence of **geometric surface expansion** in three-dimensional space.
+
+In the OEPM, motion is derived from field geometry and energy flow, not attractive forces. The so-called gravitational attraction is a **mathematical artifact** of energy radiating across a spherical surface.
+
+## Hypothesis
+
+The strength of any isotropic emission (like radiation, field strength, or influence of energy) decreases with distance due to the spreading of energy over an expanding spherical surface.
+
+We assert:  
+**The inverse-square law is a surface geometry effect, not a physical force.**
+
+## Definitions
+
+Let:
+
+- P: point source of energy
+- E: total energy emitted from the source (constant)
+- r: radius from point source
+- A = 4\pi r^2: surface area of a sphere of radius r
+- I: energy intensity per unit area at radius r
+
+## Step-by-Step Proof
+
+1. **Energy is conserved and isotropically radiated:**
+
+\[
+   E = I \cdot A
+   \Rightarrow I = \frac{E}{4\pi r^2}
+\]
+
+   This shows that the energy (or influence) per unit area at a given radius diminishes in proportion to \frac{1}{r^2}.
+
+2. **No force is implied or required in this derivation.**  
+   The result is purely a consequence of **surface geometry** in Euclidean space.
+
+3. In Newtonian gravity, the force formula:
+
+\[
+   F = G \frac{m_1 m_2}{r^2}
+\]
+
+   mimics the same inverse-square drop-off due to this geometry—but falsely interprets it as a **pulling force**.
+
+4. The OEPM interpretation is:
+
+\[
+   \text{Field intensity} \propto \frac{1}{r^2}
+   \quad \text{due to space geometry}
+\]
+
+   Not due to a magical attractive force.
+
+## Conclusion
+
+We have mathematically shown that the inverse-square relationship emerges from simple geometric principles, not physical forces. This proves that Newtonian "gravity" is a misinterpretation of natural geometry.
+
+## Implication for OEPM
+
+This supports the OEPM claim that space and energy fields are inherently **geometric and dynamic**, not reliant on fictitious “forces.” By recognizing this, we move away from gravitational dogma toward a true field-energy-based physics.
+
+> Therefore, Newtonian mechanics is not only unnecessary—it is misleading.  
+> **Q.E.D.**
