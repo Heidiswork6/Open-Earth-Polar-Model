@@ -1,0 +1,39 @@
+# Time-Curvature Energy Field Model
+
+This model visualizes how gravity, time curvature, and a synthetic "energy field" interact around the Earth. It forms part of the **Open Earth Polar Model** framework.
+
+## Purpose
+
+To explore how time dilation (from general relativity) might combine with gravitational field strength to produce measurable effects in Earth's energy environment — potentially relevant to:
+
+- Orbital physics
+- Geomagnetic behavior
+- Energy transmission modeling (e.g., Tesla-style fields)
+
+## Components
+
+- **Gravitational Field**: Computed using Newton’s law of gravitation:  
+  `g = GM/r²`
+
+- **Time Dilation Factor**: Based on Schwarzschild solution of GR:  
+  `t_d = √(1 - Rs/r)`  
+  where `Rs = 2GM/c²` is the Schwarzschild radius of Earth.
+
+- **Energy Field**: A conceptual function:  
+  `energy_field = g * time_dilation`  
+  This is not a standard physical quantity, but a synthesized metric representing how gravitational strength and time curvature co-vary.
+
+## Output
+
+The script generates a plot showing:
+
+- Gravitational field (blue)
+- Time dilation (green)
+- Combined synthetic energy field (red)
+
+Saved as:  
+`time_curvature_energy_model.png`
+
+---
+
+> This model is intended for educational and theoretical development within the Open Earth Polar Model initiative.
