@@ -1,0 +1,89 @@
+# Experiment Guide: Polar Light Curve Analysis
+
+## Title
+**Polar Light Curve Analysis to Validate Earth’s Axis-Centered Rotation**
+
+## Objective
+To record solar positions (azimuth, altitude), sunrise/sunset times, and daylight duration at multiple latitudes throughout the year, aiming to verify whether daylight asymmetry supports a polar-axis-centric model.
+
+---
+
+## Hypothesis
+If the Earth rotates around a central polar axis (not offset by orbital motion), then the daylight duration across latitudes will follow predictable sinusoidal curves that can be differentiated from heliocentric expectations.
+
+---
+
+## Materials Required
+- Smartphone with compass and gyroscope
+- Solar position tracking app (e.g., SunCalc, Sun Surveyor)
+- Stopwatch or synced clock
+- GPS device or app
+- Data logging sheets or CSV format
+- Internet access for sunrise/sunset verification
+- Optional: Solarimeter for light intensity
+
+---
+
+## Locations
+Conduct observations at 3–5 different latitudes:
+- Near the equator (~0°)
+- Mid-latitude (~30°–45° North or South)
+- High latitude (~60°–75° North or South)
+- Ideally, one station in each hemisphere
+
+---
+
+## Procedure
+1. **Setup:**
+   - Select observation points with clear horizon views.
+   - Use GPS to log latitude and longitude.
+
+2. **Daily Observation (for 1 week per season):**
+   - Record **sunrise and sunset times**.
+   - Log **solar azimuth and altitude** every hour from 6 AM to 6 PM.
+   - Optionally, measure **light intensity** using solarimeter.
+   - Note cloud coverage and weather conditions.
+
+3. **Seasonal Replication:**
+   - Repeat the above for **each solstice and equinox** (minimum 4 per year).
+
+4. **Data Logging Format:**
+   - Use consistent CSV or JSON format:
+     ```
+     Date, Time, Latitude, Longitude, Solar Azimuth, Solar Altitude, Light Intensity, Notes
+     ```
+
+---
+
+## Expected Outcomes
+- Plot daylight duration vs latitude over time.
+- Overlay sunrise/sunset times across seasons and hemispheres.
+- Compare to predictions from both heliocentric and polar-axis models.
+
+---
+
+## Analysis
+- Use a Jupyter notebook to:
+  - Plot solar angles and daylight hours.
+  - Fit seasonal sinusoidal curves to each latitude.
+  - Compare observed symmetry/asymmetry to model predictions.
+
+---
+
+## Success Criteria
+- Consistent deviation from heliocentric expectations strengthens the axis-centric hypothesis.
+- Data symmetry around poles validates polar-axis rotation.
+- Anomalies may suggest alternative influences (e.g., time curvature, external field warping).
+
+---
+
+## Notes
+- Can be crowdsourced or submitted by global observers.
+- Ideal for long-term observational campaigns.
+- Integrates well with time-curvature predictions if time stamps are precise.
+
+---
+
+## Next Steps
+- Correlate this data with energy field simulations.
+- Feed results into rotation and solar input models.
