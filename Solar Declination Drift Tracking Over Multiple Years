@@ -1,0 +1,28 @@
+### 7. Solar Declination Drift Tracking Over Multiple Years
+
+**Objective:**  
+To detect and analyze any long-term drift or asymmetry in solar declination and its interaction with Earth’s axial tilt, testing whether the sun’s energy follows a path consistent with the polar-axis-centric model.
+
+**Background:**  
+In conventional heliocentric models, the sun’s declination (its apparent latitude in the sky) shifts predictably between ±23.5° due to Earth’s axial tilt. However, if solar radiation interacts with a dynamic polar-axis-centered energy field, the shift might show subtle asymmetries or drifts not accounted for by the current model.
+
+**Materials Required:**  
+- Solar declination data (e.g., from NOAA, NASA, or astronomical ephemerides)  
+- Ground-based solar angle tracking devices (e.g., solar noon sticks or theodolite)  
+- Access to historical solar angle data  
+- Spreadsheet software or Python for long-term data analysis
+
+**Procedure:**  
+1. Collect daily solar declination values over a multi-year period.  
+2. Measure the sun’s angle at solar noon from various global locations (preferably aligned north-south).  
+3. Graph changes in solar angle and declination versus time, checking for cyclical patterns and long-term drift.  
+4. Compare empirical results to values predicted by standard Earth-Sun geometry models.  
+5. Analyze how well the Open Earth Polar Model accounts for variations using its energy field curvature logic.
+
+**Expected Outcome:**  
+- Slight deviations or unexpected patterns in solar declination near equinoxes or solstices.  
+- Possible hemispheric asymmetry in solar tracking, aligning more tightly with one pole or side of the axis.  
+- Improved predictive correlation using polar energy field distortion in the new model.
+
+**Significance to the Model:**  
+Confirmation of measurable long-term solar path drift—especially if it correlates more strongly with polar energy field asymmetry—would suggest that Earth’s axial and solar relationships are influenced by dynamic curvature and not just fixed tilt. This supports the idea of a more complex, responsive energy field geometry than currently modeled.
