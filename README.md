@@ -1,5 +1,5 @@
 # Open-Earth-Polar-Model
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 **Welcome to the Open Earth Polar Model Project.**
 
 This is an open-source, collaborative initiative aimed at exploring and developing alternative geophysical and cosmological models outside the constraints of institutional space agencies or closed scientific circles. Our focus is on a **polar-axis-centered, spherical Earth model** that integrates ideas of **time-curvature, rotational asymmetry, and field dynamics**, all grounded in observations accessible to everyday researchers.
@@ -48,5 +48,10 @@ MIT License — you are free to use, modify, and share this model with attributi
 If you've ever asked *“What if we looked at Earth differently?”*, you’re in the right place.
 
 Let’s build something better — together.
+## Citation
 
+If you use or reference this model in your research, please cite:
+
+**Heidi Peterson** (2025). *Open Earth Polar Model*.  
+GitHub Repository: [https://github.com/your-username/open-earth-polar-model](https://github.com/your-username/open-earth-polar-model)
 ---
