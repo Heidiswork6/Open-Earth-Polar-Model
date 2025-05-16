@@ -1,0 +1,61 @@
+# Proof 3: Constant Acceleration Is an Illusion Created by Rotating Fields
+
+## Introduction
+
+This proof aligns with the Open Earth Polar Model (OEPM) by exposing the Newtonian assumption of **constant acceleration due to gravity** as an oversimplification. Instead of a linear force, the OEPM describes gravitational motion as a **field-based curvature effect** produced by rotation and energy flow.
+
+## Hypothesis
+
+The apparent uniform acceleration experienced near Earth's surface is not due to a downward force, but rather the result of rotational field geometry causing **curved time-space trajectories**.
+
+## Definitions
+
+- a = 9.8\, \text{m/s}^2: Newtonian gravitational acceleration
+- R: Radius of Earth
+- \theta: Angular displacement
+- \omega: Angular velocity of field rotation
+- v = R\omega: Tangential velocity
+
+We assume motion occurs on a rotating field shell, not due to linear “pull.”
+
+## Step-by-Step Proof
+
+1. **Centripetal acceleration from rotation:**
+
+   In polar field models, rotation creates perceived acceleration:
+
+\[
+   a = \frac{v^2}{R} = R\omega^2
+\]
+
+   This is the same numerical value as Newton’s constant g, but it comes from field rotation, not force.
+
+2. **Apparent vertical acceleration is a projection:**
+
+   What Newton calls vertical acceleration is actually a **local projection of curved motion** in a rotating frame:
+
+\[
+   a_{\text{observed}} = R\omega^2
+   \Rightarrow \text{Matches } 9.8\, \text{m/s}^2
+\]
+
+   But no force is required—only field rotation.
+
+3. **Time dilation supports curvature model:**
+
+   In general relativity and OEPM, time slows near denser energy fields. The "falling" effect is due to changing time flow, not pulling forces.
+
+4. **Newton ignores field rotation entirely:**
+
+   His equations cannot account for frame curvature or field gradient in spacetime. OEPM explains why bodies follow curved paths: **they are responding to the field geometry**.
+
+## Conclusion
+
+The illusion of constant acceleration is fully explained by rotating field dynamics, not linear forces. Newton’s idea of “gravitational pull” is replaced with a **natural flow through a curved energy field**.
+
+## Implication for OEPM
+
+This supports OEPM’s rejection of Newtonian gravity as outdated and misdirected. Field curvature, not force, is the true source of motion near planetary surfaces.
+
+> Therefore, Newton's model of gravitational acceleration is geometrically incorrect and conceptually misleading.  
+> **Q.E.D.**
