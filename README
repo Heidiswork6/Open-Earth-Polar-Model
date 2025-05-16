@@ -1,0 +1,51 @@
+# Supporting Theories & Critique of Newtonian Mechanics
+
+## Purpose
+
+This branch exists to critically examine classical Newtonian mechanics and showcase how the **Open Earth Polar Model** provides a more coherent, adaptable, and future-ready foundation for understanding the universe.
+
+## Mission Statement
+
+We aim to **end the scientific community’s dependence on Newtonian mechanics** — a model that is not only outdated but actively harmful to the advancement of modern physics, cosmology, and energy theory.
+
+## A Call for Educational Reform
+
+Newtonian mechanics, though historically significant, is **fundamentally flawed** when viewed through modern mathematical and physical lenses. Its concepts of gravity, force, and motion rely on **fictive simplifications** that ignore field interactions, time curvature, and energetic asymmetry.
+
+This model is so **repulsive to serious mathematicians** that it risks turning them away from physics entirely in their formative years. The teaching of Newton’s framework as “foundational” is a **pedagogical error** that stifles critical thinking and should be **banned from modern curricula**.
+
+### First-Year Physics: A Trap
+
+Modern introductory physics courses worsen the problem by relying on **oversimplified vector math**, rather than foundational **calculus-based analysis**. These vector-based “solutions” often produce **incorrect or misleading answers**, especially in systems involving rotation, multiple bodies, or energy fields. 
+
+This approach not only distorts physical intuition, but also discourages mathematically-inclined students who see through the inaccuracy and become alienated from the field of physics altogether.
+
+## The Case Against Newton
+
+- **Fails in non-linear, relativistic, and quantum contexts.**
+- Assumes fictitious forces and absolute space/time.
+- Misrepresents gravity as a "pulling force" rather than emergent curvature.
+- Inhibits exploration of multi-body systems and energy-field models.
+- Disconnects learners from the real-world behavior of complex celestial systems.
+- Promotes simplistic vector mechanics over meaningful, calculus-driven modeling.
+
+## Why the Open Earth Polar Model Matters
+
+Our model:
+- Anchors understanding in **field dynamics, rotational polarity, and time-energy curvature**.
+- Reflects modern insights from Tesla, Einstein, and plasma cosmology.
+- Supports dynamic, multi-body simulations in **non-Cartesian space**.
+- Provides a model that evolves with observed data and energy-based phenomena.
+- Promotes **open access**, intellectual freedom, and democratization of cosmic models.
+
+## What's Inside
+
+- `critique_newtonian_mechanics.md` — A structured breakdown of the flaws in Newtonian theory.
+- `aligned_models/` — Summaries of alternative frameworks that support polar, field-based cosmology.
+- `field_simulations/` — Sample Python simulations that visualize the curvature-field approach.
+
+## Join the Movement
+
+We invite educators, students, scientists, and independent thinkers to **dismantle outdated frameworks** and help build the future of open, rotational, and curvature-based physics.
+
+*Open physics. Open minds. Close the door on Newton.*
