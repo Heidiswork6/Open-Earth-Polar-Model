@@ -1,0 +1,8 @@
+# Experiments
+
+This folder contains documentation, guides, and protocols for physical, observational, and computational experiments designed to test the validity and predictive power of the Open Earth Polar Model.
+
+## Structure
+
+- `experiment_ideas.md`: A curated list of proposed experiments that aim to evaluate and validate key hypotheses of the model.
+- [Future]: Individual markdown files for each experiment detailing materials, procedures, expected outcomes, and data logging formats.
