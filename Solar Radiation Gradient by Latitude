@@ -1,0 +1,32 @@
+### 3. Solar Radiation Gradient by Latitude
+
+**Objective:**  
+To measure and compare solar radiation intensity at different latitudes to determine whether solar energy distribution supports a polar-centric model rather than an equatorial-centric model.
+
+**Background:**  
+Traditional heliocentric models assume relatively symmetrical solar radiation gradients centered on the equator. The Open Earth Polar Model suggests that time-curvature and axis-based orientation may influence energy distribution in a more complex or asymmetric way.
+
+**Materials Required:**  
+- Pyranometer or solar radiation sensor  
+- GPS device for accurate latitude logging  
+- Time-synchronized data logger  
+- Temperature and atmospheric pressure sensor (to normalize radiation data)  
+- Clear skies or control for weather interference
+
+**Procedure:**  
+1. Choose multiple observation sites along different latitudes (e.g., 0°, ±15°, ±30°, ±45°, ±60°, ±75°).  
+2. At each site, measure:  
+   - Total solar radiation (W/m²)  
+   - Time of day and solar angle  
+   - Weather conditions and atmospheric clarity  
+3. Take readings at the same local solar time (e.g., solar noon) across all sites for consistency.  
+4. Normalize data for elevation and weather variation.  
+5. Compile results into a solar radiation vs. latitude curve.
+
+**Expected Outcome:**  
+- Identification of non-linear energy distribution trends across latitudes  
+- Possible deviation from equator-maximal assumptions  
+- Discovery of radiation "bands" or gradients tied to axial curvature effects
+
+**Significance to the Model:**  
+This experiment tests the claim that solar radiation follows a more complex field interaction with Earth's geometry, potentially aligned with the polar axis and supporting the idea of time-space curvature affecting solar distribution patterns. It could show why some high-latitude regions experience unexpected thermal or light anomalies.
