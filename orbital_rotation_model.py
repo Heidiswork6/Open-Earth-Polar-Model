@@ -3,6 +3,12 @@ Orbital Rotation Model (Polar Framework)
 ----------------------------------------
 This script simulates Earth's orbital motion around a central point (e.g., the Sun)
 using a simplified polar coordinate model with curvature and time-aware adjustments.
+What It Does
+
+Simulates Earth rotating around the Sun in a polar-based model.
+Converts polar coordinates to Cartesian for plotting.
+Includes an optional elliptical correction to match Kepler's laws.
+Easy to extend with time-curvature or polar asymmetry effects.
 
 Author: Open Earth Polar Model Community
 """
