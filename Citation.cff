@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this model, please cite it as below."
+authors:
+  - family-names: Peterson
+    given-names: Heidi
+title: "Open Earth Polar Model"
+version: 1.0.0
+date-released: 2025-05-16
+url: https://github.com/yourusername/open-earth-polar-model
+license: MIT
