@@ -1,0 +1,24 @@
+# Time-Curvature Gravity Model
+
+## Concept
+
+Gravity is modeled as an outcome of dynamic curvature in space-time-energy fields, changing over time.
+
+## Key Equation
+
+Φ(r, t) = - G * M / (r + α * f(t))
+
+Where:
+- Φ = gravitational potential
+- G = gravitational constant
+- M = mass of Earth
+- r = radial distance from axis
+- α = curvature coefficient
+- f(t) = time-based curvature function
+
+## Relationship to General Relativity
+
+In this model, instead of static curvature, we allow curvature to evolve locally and globally over time, adapting to:
+- solar energy inputs
+- rotational strain
+- mass-energy field variations
