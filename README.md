@@ -1,5 +1,7 @@
 # Open-Earth-Polar-Model
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+## License  
+[![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 **Welcome to the Open Earth Polar Model Project.**
 
 This is an open-source, collaborative initiative aimed at exploring and developing alternative geophysical and cosmological models outside the constraints of institutional space agencies or closed scientific circles. Our focus is on a **polar-axis-centered, spherical Earth model** that integrates ideas of **time-curvature, rotational asymmetry, and field dynamics**, all grounded in observations accessible to everyday researchers.
