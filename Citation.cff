@@ -8,3 +8,21 @@ version: 1.0.0
 date-released: 2025-05-16
 url: https://github.com/yourusername/open-earth-polar-model
 license: MIT
+Open Earth Polar Model (OEPM) - Field Gradient Physics  
+Copyright (C) 2025 Heidi S. Peterson  
+
+This program is free software: you can redistribute it and/or modify  
+it under the terms of the GNU General Public License as published by  
+the Free Software Foundation, either version 3 of the License, or  
+(at your option) any later version.  
+
+This program includes patent protections on:  
+- Field-gradient methods for gravitational anomaly detection  
+- Scalar resonance quantification techniques  
+
+Additional terms:  
+1. Derivative works must prominently cite the original OEPM paper  
+   (DOI: 10.5281/zenodo.15447129).  
+2. Commercial users must contact the author for licensing.  
+
+Full license at: https://www.gnu.org/licenses/gpl-3.0.en.html  
