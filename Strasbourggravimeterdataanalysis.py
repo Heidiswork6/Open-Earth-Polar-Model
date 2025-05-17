@@ -1,3 +1,19 @@
+
+# Add this header  
+"""
+OEPM 6.5 Hz Detection Module  
+License: GPLv3  
+Data: Strasbourg Gravimeter (2017-2024)  
+Key Functions:  
+- bandpass_filter()  # 6.3-6.7 Hz  
+- fft_peak_detect()  
+- geomagnetic_phase_correlation()  
+"""  
+
+# Example function to add:  
+def detect_6hz_mode(data_file):  
+    """Returns (peak_freq, snr, p_value)"""  
+    ... [your existing code] ...
 ### **1. Strasbourg Gravimeter Data Analysis**  
 **Dataset**: [Strasbourg 2017-2024 (1Hz-10Hz)](https://doi.org/10.1785/0120060402)  
 **Method**:  
